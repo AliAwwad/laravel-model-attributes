@@ -1,6 +1,6 @@
-# laravel-model-attributes package
+# Laravel Model Attributes package for Atom Editor
 
-Laravel Model Attributes package targets a Laravel+MySQL projects to assist developers with autocomplete functionality to auto-complete a given Model by taking its name to guess the mysql related table.
+Laravel Model Attributes package for Atom targets a Laravel+MySQL projects to assist developers with autocomplete functionality to auto-complete a given Model by taking its name to guess the mysql related table.
 
 Note: Right now it works only if you define you variables like: `$item = new User()`, the package will look for table `users` in your database and get back the columns.
 
@@ -30,5 +30,6 @@ This package is a provider for `autocomplete-plus` package (bundled with Atom)
 ### Maybe
 
 ### Thanks to:
-- Vinkla `autocomplete-tailwind`, great package, I went through its code and learned how to make a provider for `autocomplete-plus`.
 - MySQL Nodejs library, it made this possible.
+- Vinkla `autocomplete-tailwind`, great package, I went through its code and learned how to make a provider for `autocomplete-plus`.
+- Azakur4 `autocomplete-php`, which I copied his README file layout.
