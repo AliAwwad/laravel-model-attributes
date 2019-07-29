@@ -1,0 +1,22 @@
+{
+  "name": "laravel-model-attributes",
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "4.0.0": "getProvider"
+      }
+    }
+  },
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "Laravel Model Attributes package targets a Laravel+MySQL projects to assist developers with autocomplete functionality to auto-complete a given Model by taking its name to guess the mysql related table.",
+  "keywords": [],
+  "repository": "https://github.com/AliAwwad/laravel-model-attributes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
