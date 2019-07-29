@@ -13,6 +13,7 @@ This package is a provider for `autocomplete-plus` package (bundled with Atom)
 
 
 ### Requirements:
+- Your project must be using MySQL as database.
 - Atom `autocomplete-plus` package (bundled with Atom)
 - Now is mandatory have PHP in the environment PATH
 
@@ -26,6 +27,7 @@ This package is a provider for `autocomplete-plus` package (bundled with Atom)
 ### To-Do
 - [ ] return Model custom methods
 - [ ] find Model by `use App\Class` statement (to break free from pluralize model name to get table name)
+- [ ] Apply to other database types
 
 ### Maybe
 
