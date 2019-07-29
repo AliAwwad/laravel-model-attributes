@@ -8,7 +8,7 @@ Note: Right now it works only if you define you variables like: `$item = new Use
 
 This package is a provider for `autocomplete-plus` package (bundled with Atom)
 
-![](images/laravel-model-attributes-screenshot-01.png)
+<img src="images/laravel-model-attributes-screenshot-01.png" width="300" />
 
 
 
