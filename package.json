@@ -8,7 +8,7 @@
     }
   },
   "main": "./lib/index",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Laravel Model Attributes package targets a Laravel+MySQL projects to assist developers with autocomplete functionality to auto-complete a given Model by taking its name to guess the mysql related table.",
   "keywords": [],
   "repository": "https://github.com/AliAwwad/laravel-model-attributes",
